@@ -5,7 +5,7 @@ body {
 
 body {
   font: 100% "Space Mono", monospace;
-  color: rgb(111, 145, 10);
+  color: red;
   margin: 10px;
   padding: 5px;
   background-color: rgba(87, 119, 193, 0.75);
@@ -63,19 +63,18 @@ pre {
   width: 40%;
 }
 
-h1,
-h2,
 h6 {
-  color: #6b8eff;
+  color: rgb(111, 145, 10);
 }
 
 h1 {
   text-align: center;
-  color: rgb(111, 145, 10);
+  color: red;
 }
 
 h2 {
   text-align: center;
+  color: rgb(111, 145, 10);
 }
 
 h6 {
@@ -84,25 +83,18 @@ h6 {
   padding: 20px;
 }
 
-.message,
-.success,
-.error,
-.warning {
+.warning, .error, .success {
   border: 1px solid #ccc;
   padding: 16px;
   margin: 16px;
-  color: #2748b3;
-  background-color: #000;
+  color: black;
+  background-color: orange;
 }
 
 .success {
-  background-color: green;
+  background-color: 0;
 }
 
 .error {
-  background-color: red;
-}
-
-.warning {
-  background-color: orange;
+  background-color: 0;
 }/*# sourceMappingURL=red.css.map */

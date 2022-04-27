@@ -24,11 +24,17 @@ body {
     a {
     float: left;
     display: block;
-    color: green;
+    color: blue;
     text-align: center;
     padding: 0;
     text-decoration: none;
     width: 100%;
+    }
+    .hrefBlue {
+        color: blue
+    }
+    .hrefRed {
+        color: red;
     }
     a:hover {
     background-color: #af3716;
