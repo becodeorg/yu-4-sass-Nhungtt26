@@ -1,6 +1,6 @@
 body {
   font: 100% Helvetica, sans-serif;
-  color: rgb(198, 213, 153);
+  color: rgb(111, 145, 10);
 }
 
 body {
@@ -40,7 +40,7 @@ a {
 
 a:hover {
   background-color: #af3716;
-  color: rgb(198, 213, 153);
+  color: rgb(111, 145, 10);
   font-weight: bold;
 }
 

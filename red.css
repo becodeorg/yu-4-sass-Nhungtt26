@@ -1,11 +1,11 @@
 body {
   font: 100% Helvetica, sans-serif;
-  color: rgb(198, 213, 153);
+  color: rgb(111, 145, 10);
 }
 
 body {
   font: 100% "Space Mono", monospace;
-  color: rgb(198, 213, 153);
+  color: rgb(111, 145, 10);
   margin: 10px;
   padding: 5px;
   background-color: rgba(87, 119, 193, 0.75);
@@ -71,7 +71,7 @@ h6 {
 
 h1 {
   text-align: center;
-  color: rgb(198, 213, 153);
+  color: rgb(111, 145, 10);
 }
 
 h2 {
