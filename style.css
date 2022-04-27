@@ -1,0 +1,49 @@
+body {
+  font: 100% Helvetica, sans-serif;
+  color: rgb(198, 213, 153);
+}
+
+body {
+  background-image: linear-gradient(0, #547ea6, rgba(221, 221, 221, 0.8666666667));
+  font-family: "Times New Roman", Times, serif;
+}
+
+div {
+  background-color: rgb(231, 231, 112);
+  width: 50%;
+  height: 500px;
+  margin-left: auto;
+  margin-top: 10%;
+  margin-right: auto;
+  margin-bottom: auto;
+  text-align: center;
+}
+
+h1 {
+  font-size: 2cm;
+  width: 80%;
+  padding-top: 10%;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+a {
+  float: left;
+  display: block;
+  color: green;
+  text-align: center;
+  padding: 0;
+  text-decoration: none;
+  width: 100%;
+}
+
+a:hover {
+  background-color: #af3716;
+  color: rgb(198, 213, 153);
+  font-weight: bold;
+}
+
+footer {
+  text-align: center;
+}/*# sourceMappingURL=style.css.map */
